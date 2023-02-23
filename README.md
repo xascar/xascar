@@ -2,6 +2,13 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/xascar">xascar</a> 👋</h1>
 </div>
 
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/xascar/count.svg" />
+</p>
+
 ### ⚙️&nbsp;GitHub Analytics
 
 <p align="center">
